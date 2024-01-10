@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Account.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/AccountState.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/PinValidator.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/Terminal.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/TerminalImpl.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/TerminalServer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/UserInterface.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/UserInterfaceConsole.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/exceptions/AccountIsLockedException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/exceptions/BadPinException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/exceptions/BadSumException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/exceptions/IsNotLoggedInException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/exceptions/PinExhaustedException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
